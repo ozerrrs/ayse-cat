@@ -1,0 +1,505 @@
+{
+  "topic" : "happy",
+  "openLibraryUrl" : "https://openlibrary.org/search.json?q=happy",
+  "books" : [ {
+    "title" : "The Happy Prince and other tales",
+    "author" : "Oscar Wilde",
+    "firstPublishYear" : 1888,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8269770W"
+  }, {
+    "title" : "Ikigai",
+    "author" : "Héctor García",
+    "firstPublishYear" : 2016,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL19714233W"
+  }, {
+    "title" : "Price of Happiness",
+    "author" : "Yvonne Whittal",
+    "firstPublishYear" : 1977,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL4225425W"
+  }, {
+    "title" : "YPromesa De Felicidad",
+    "author" : "Betty Neels",
+    "firstPublishYear" : 1979,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3457845W"
+  }, {
+    "title" : "Stumbling on happiness",
+    "author" : "Daniel Todd Gilbert",
+    "firstPublishYear" : 2006,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15840192W"
+  }, {
+    "title" : "A Happy Meeting (Betty Neels Large Print Collection)",
+    "author" : "Betty Neels",
+    "firstPublishYear" : 1968,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3457748W"
+  }, {
+    "title" : "Nudge",
+    "author" : "Richard H. Thaler",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3936258W"
+  }, {
+    "title" : "Passport to Happiness",
+    "author" : "Jessica Steele",
+    "firstPublishYear" : 1990,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3845173W"
+  }, {
+    "title" : "The art of happiness",
+    "author" : "His Holiness Tenzin Gyatso the XIV Dalai Lama",
+    "firstPublishYear" : 1998,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL318761W"
+  }, {
+    "title" : "These Happy Golden Years",
+    "author" : "Laura Ingalls Wilder",
+    "firstPublishYear" : 1943,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1719702W"
+  }, {
+    "title" : "The Psychology of Money",
+    "author" : "Morgan Housel",
+    "firstPublishYear" : 2020,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL21640039W"
+  }, {
+    "title" : "Furiously Happy",
+    "author" : "Jenny Lawson",
+    "firstPublishYear" : 2015,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17358376W"
+  }, {
+    "title" : "The Architecture of Happiness",
+    "author" : "Alain De Botton",
+    "firstPublishYear" : 2006,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL107927W"
+  }, {
+    "title" : "After Ever Happy (After Series, Book 4)",
+    "author" : "Anna Todd",
+    "firstPublishYear" : 2015,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20004819W"
+  }, {
+    "title" : "The Happiness Hypothesis",
+    "author" : "Jonathan Haidt",
+    "firstPublishYear" : 2005,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5829273W"
+  }, {
+    "title" : "The psychology of money",
+    "author" : "Henry Clay Lindgren",
+    "firstPublishYear" : 1991,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2780331W"
+  }, {
+    "title" : "Happy Place",
+    "author" : "Emily Henry",
+    "firstPublishYear" : 2023,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL28607665W"
+  }, {
+    "title" : "Tales from a Not-So-Happy Birthday",
+    "author" : "Rachel Renée Russell",
+    "firstPublishYear" : 2018,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL18130476W"
+  }, {
+    "title" : "Happy Pig Day!",
+    "author" : "Mo Willems",
+    "firstPublishYear" : 2011,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16322379W"
+  }, {
+    "title" : "Happy Halloween Gus!",
+    "author" : "Jacklyn Williams",
+    "firstPublishYear" : 2005,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5718885W"
+  }, {
+    "title" : "Happiness Hill",
+    "author" : "Grace Livingston Hill",
+    "firstPublishYear" : 1932,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL14848623W"
+  }, {
+    "title" : "嫌われる勇気",
+    "author" : "Ichirō Kishimi",
+    "firstPublishYear" : 2013,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL19744000W"
+  }, {
+    "title" : "My happy life",
+    "author" : "Rose Lagercrantz",
+    "firstPublishYear" : 2013,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17725387W"
+  }, {
+    "title" : "Tales from a not-so-happy heartbreaker",
+    "author" : "Rachel Renée Russell",
+    "firstPublishYear" : 2013,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17179797W"
+  }, {
+    "title" : "The conquest of happiness",
+    "author" : "Bertrand Russell",
+    "firstPublishYear" : 1930,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1088568W"
+  }, {
+    "title" : "The Happiness Trap",
+    "author" : "Russ Harris",
+    "firstPublishYear" : 2007,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL11806632W"
+  }, {
+    "title" : "The happy hooker",
+    "author" : "Xaviera Hollander",
+    "firstPublishYear" : 1973,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5188227W"
+  }, {
+    "title" : "Happy Ever After",
+    "author" : "Nora Roberts",
+    "firstPublishYear" : 2010,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15437572W"
+  }, {
+    "title" : "The Ministry of Utmost Happiness",
+    "author" : "Arundhati Roy",
+    "firstPublishYear" : 2017,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17778666W"
+  }, {
+    "title" : "The happiness project",
+    "author" : "Gretchen Craft Rubin",
+    "firstPublishYear" : 2009,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5838498W"
+  }, {
+    "title" : "The happiness advantage",
+    "author" : "Shawn Achor",
+    "firstPublishYear" : 2010,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15674042W"
+  }, {
+    "title" : "The Almanack of Naval Ravikant",
+    "author" : "Eric Jorgenson",
+    "firstPublishYear" : 2020,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL22255847W"
+  }, {
+    "title" : "Happy with Either",
+    "author" : "Ruth Clemence",
+    "firstPublishYear" : 1972,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17092301W"
+  }, {
+    "title" : "More happy than not",
+    "author" : "Adam Silvera",
+    "firstPublishYear" : 2015,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20004466W"
+  }, {
+    "title" : "Mister Happy",
+    "author" : "Roger Hargreaves",
+    "firstPublishYear" : 1971,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3657198W"
+  }, {
+    "title" : "Year's Happy Ending",
+    "author" : "Betty Neels",
+    "firstPublishYear" : 1984,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3457948W"
+  }, {
+    "title" : "Happy birthday, Samantha!",
+    "author" : "Valerie Tripp",
+    "firstPublishYear" : 1987,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15958481W"
+  }, {
+    "title" : "Happy Birthday, Addy!",
+    "author" : "Connie Rose Porter",
+    "firstPublishYear" : 1993,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL67191W"
+  }, {
+    "title" : "A Lot of happiness",
+    "author" : "",
+    "firstPublishYear" : 1981,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16806525M"
+  }, {
+    "title" : "Happy Birthday, Moon",
+    "author" : "Frank Asch",
+    "firstPublishYear" : 1982,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1903106W"
+  }, {
+    "title" : "Being Happy!",
+    "author" : "Andrew Matthews",
+    "firstPublishYear" : 1989,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3340478W"
+  }, {
+    "title" : "Happy birthday to You!",
+    "author" : "Dr. Seuss",
+    "firstPublishYear" : 1959,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1898268W"
+  }, {
+    "title" : "Happy all the time",
+    "author" : "Laurie Colwin",
+    "firstPublishYear" : 1978,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3492468W"
+  }, {
+    "title" : "Happy birthday, Molly! : a springtime story",
+    "author" : "Valerie Tripp",
+    "firstPublishYear" : 1987,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL18162933W"
+  }, {
+    "title" : "Happy Ending",
+    "author" : "Jill MacLean",
+    "firstPublishYear" : 1991,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3770702W"
+  }, {
+    "title" : "Happy birthday, Kirsten!",
+    "author" : "Janet Beeler Shaw",
+    "firstPublishYear" : 1987,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL67179W"
+  }, {
+    "title" : "14,000 things to be happy about",
+    "author" : "Barbara Ann Kipfer",
+    "firstPublishYear" : 1990,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15059553W"
+  }, {
+    "title" : "Happy Little Family",
+    "author" : "Rebecca Caudill",
+    "firstPublishYear" : 1947,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL4273484W"
+  }, {
+    "title" : "Happiness for beginners",
+    "author" : "Katherine Center",
+    "firstPublishYear" : 2015,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20003083W"
+  }, {
+    "title" : "Trixie Belden and the Happy Valley mystery",
+    "author" : "Kathryn Kenny",
+    "firstPublishYear" : 1962,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15395720W"
+  }, {
+    "title" : "Happy Halloween! (Max & Ruby)",
+    "author" : "Rosemary Wells",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL32616W"
+  }, {
+    "title" : "Happy Day",
+    "author" : "Ruth Krauss",
+    "firstPublishYear" : 1949,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2040928W"
+  }, {
+    "title" : "The how of happiness",
+    "author" : "Sonja Lyubomirsky",
+    "firstPublishYear" : 2007,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15837070W"
+  }, {
+    "title" : "Miss Happiness and Miss Flower",
+    "author" : "Rumer Godden",
+    "firstPublishYear" : 1961,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1825348W"
+  }, {
+    "title" : "Preschool Activity Workbook",
+    "author" : "Happy Creative Space",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL29786624W"
+  }, {
+    "title" : "Dare I Be Happy?",
+    "author" : "Mary Burchell",
+    "firstPublishYear" : 1973,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL4472974W"
+  }, {
+    "title" : "Ultimate Christmas Coloring Book for Kids",
+    "author" : "Happy Winter",
+    "firstPublishYear" : 2020,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL30589930W"
+  }, {
+    "title" : "Getting to happy",
+    "author" : "Terry McMillan",
+    "firstPublishYear" : 2010,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15118494W"
+  }, {
+    "title" : "Happy Hour",
+    "author" : "Marlowe Granados",
+    "firstPublishYear" : 2020,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL24520821W"
+  }, {
+    "title" : "What's your happy space...",
+    "author" : "Elizabeth Bernath",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL24608334W"
+  }, {
+    "title" : "Happy birthday, Kit!",
+    "author" : "Valerie Tripp",
+    "firstPublishYear" : 2001,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL67127W"
+  }, {
+    "title" : "The happy isles of Oceania",
+    "author" : "Paul Theroux",
+    "firstPublishYear" : 1992,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL37610W"
+  }, {
+    "title" : "The Illicit Happiness Of Other People",
+    "author" : "Manu Joseph",
+    "firstPublishYear" : 2012,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17391699W"
+  }, {
+    "title" : "Happinessᵀᴹ",
+    "author" : "Will Ferguson",
+    "firstPublishYear" : 2001,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1963540W"
+  }, {
+    "title" : "Family Happiness",
+    "author" : "Laurie Colwin",
+    "firstPublishYear" : 1982,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3492470W"
+  }, {
+    "title" : "Being happy!",
+    "author" : "Andrew Matthews",
+    "firstPublishYear" : 1988,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1987784W"
+  }, {
+    "title" : "The Happy Ever After Playlist",
+    "author" : "Abby Jimenez",
+    "firstPublishYear" : 2020,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20667427W"
+  }, {
+    "title" : "Happy birthday, Sam",
+    "author" : "Pat Hutchins",
+    "firstPublishYear" : 1978,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL18798W"
+  }, {
+    "title" : "Happy-Go-Lucky",
+    "author" : "David Sedaris",
+    "firstPublishYear" : 2022,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL25337991W"
+  }, {
+    "title" : "Happiness is a choice",
+    "author" : "Barry Neil Kaufman",
+    "firstPublishYear" : 1991,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2994607W"
+  }, {
+    "title" : "Too Much Happiness",
+    "author" : "Alice Munro",
+    "firstPublishYear" : 2009,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL931676W"
+  }, {
+    "title" : "Happy Mother's Day, Lila",
+    "author" : "Jamie Suzanne",
+    "firstPublishYear" : 1998,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3932981W"
+  }, {
+    "title" : "Solve for happy",
+    "author" : "Mo Gawdat",
+    "firstPublishYear" : 2016,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20048387W"
+  }, {
+    "title" : "Happy New Year, Julie",
+    "author" : "Megan McDonald",
+    "firstPublishYear" : 2007,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL104335W"
+  }, {
+    "title" : "The happy lion",
+    "author" : "Louise Fatio",
+    "firstPublishYear" : 1954,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5837486W"
+  }, {
+    "title" : "Happy Baby",
+    "author" : "Roger Priddy",
+    "firstPublishYear" : 2001,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3260129W"
+  }, {
+    "title" : "The secret of happiness",
+    "author" : "Billy Graham",
+    "firstPublishYear" : 1955,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15421566W"
+  }, {
+    "title" : "Letter Tracing Books",
+    "author" : "Happy Creative Space",
+    "firstPublishYear" : 2018,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL29463473W"
+  }, {
+    "title" : "The Christian's Secret of a Happy Life",
+    "author" : "Hannah Whitall Smith",
+    "firstPublishYear" : 1883,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2026625W"
+  }, {
+    "title" : "Happy birthday, Wanda June",
+    "author" : "Kurt Vonnegut",
+    "firstPublishYear" : 1971,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL98467W"
+  }, {
+    "title" : "Dance of the Happy Shades",
+    "author" : "Alice Munro",
+    "firstPublishYear" : 1968,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL931679W"
+  }, {
+    "title" : "Art of Living",
+    "author" : "Epictetus",
+    "firstPublishYear" : 1995,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15238704W"
+  }, {
+    "title" : "The antidote",
+    "author" : "Oliver Burkeman",
+    "firstPublishYear" : 2012,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16681873W"
+  }, {
+    "title" : "Furiously Happy",
+    "author" : "Jenny Lawson",
+    "firstPublishYear" : 2015,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20317132W"
+  }, {
+    "title" : "Pre K Workbook Cursive",
+    "author" : "Happy Creative Space",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL29462786W"
+  }, {
+    "title" : "Not a Happy Family",
+    "author" : "Shari Lapeña",
+    "firstPublishYear" : 2021,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL24360692W"
+  }, {
+    "title" : "Happy brain",
+    "author" : "Dean Burnett",
+    "firstPublishYear" : 2018,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL19745207W"
+  }, {
+    "title" : "The Christian's secret of a happy life",
+    "author" : "Hannah Whitall Smith",
+    "firstPublishYear" : 1875,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL11373745W"
+  }, {
+    "title" : "Authentic Happiness",
+    "author" : "Martin Elias Pete Seligman",
+    "firstPublishYear" : 2002,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8004627W"
+  }, {
+    "title" : "The Happiness Project",
+    "author" : "Gretchen Rubin",
+    "firstPublishYear" : 2010,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15833228W"
+  }, {
+    "title" : "Happy Money",
+    "author" : "Ken Honda",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20873439W"
+  }, {
+    "title" : "Happy Sexy Millionaire",
+    "author" : "Steven Bartlett",
+    "firstPublishYear" : 2021,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL21686319W"
+  }, {
+    "title" : "Happy Haunting, Amelia Bedelia",
+    "author" : "Herman Parish",
+    "firstPublishYear" : 2004,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1984638W"
+  }, {
+    "title" : "Happy",
+    "author" : "Derren Brown",
+    "firstPublishYear" : 1964,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20182706W"
+  }, {
+    "title" : "Happy Easter, Little Critter",
+    "author" : "Mercer Mayer",
+    "firstPublishYear" : 1988,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL78987W"
+  }, {
+    "title" : "The Emotion Code",
+    "author" : "Bradley B. Nelson",
+    "firstPublishYear" : 2007,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL9775991W"
+  }, {
+    "title" : "HAPPY ODYSSEY",
+    "author" : "Adrian Carton de Wiart",
+    "firstPublishYear" : 2007,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL9792476W"
+  }, {
+    "title" : "Horse-Happy Schoolgirl",
+    "author" : "Curt Aldrich",
+    "firstPublishYear" : 1985,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16538127W"
+  }, {
+    "title" : "Happy birthday, Felicity!",
+    "author" : "Valerie Tripp",
+    "firstPublishYear" : 1992,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17735155W"
+  }, {
+    "title" : "The Happy Orpheline (The Orphelines #1)",
+    "author" : "Natalie Savage Carlson",
+    "firstPublishYear" : 1957,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL4633498W"
+  } ]
+}

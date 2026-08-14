@@ -1,0 +1,505 @@
+{
+  "topic" : "hungry",
+  "openLibraryUrl" : "https://openlibrary.org/search.json?q=hungry",
+  "books" : [ {
+    "title" : "The Very Hungry Caterpillar",
+    "author" : "Eric Carle",
+    "firstPublishYear" : 1969,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL52987W"
+  }, {
+    "title" : "The Book",
+    "author" : "Hungry Minds",
+    "firstPublishYear" : 2022,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL37851715W"
+  }, {
+    "title" : "The Hungry Heart",
+    "author" : "Margaret Way",
+    "firstPublishYear" : 1988,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5236136W"
+  }, {
+    "title" : "The Hungry Tide",
+    "author" : "Amitav Ghosh",
+    "firstPublishYear" : 2004,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1054099W"
+  }, {
+    "title" : "In the Realm of Hungry Ghosts",
+    "author" : "Gabor Maté",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8036789W"
+  }, {
+    "title" : "The hungry tide",
+    "author" : "Lucy Gillen",
+    "firstPublishYear" : 1976,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17716009W"
+  }, {
+    "title" : "Tall, Dark & Hungry",
+    "author" : "Lynsay Sands",
+    "firstPublishYear" : 2001,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5683006W"
+  }, {
+    "title" : "Mortal Engines (The Hungry City Chronicles)",
+    "author" : "Philip Reeve",
+    "firstPublishYear" : 2004,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5826877W"
+  }, {
+    "title" : "The Little Mouse, the Ripe Red Strawberry, and the Big Hungry Bear",
+    "author" : "Audrey Wood",
+    "firstPublishYear" : 1945,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL547420W"
+  }, {
+    "title" : "Money hungry",
+    "author" : "Sharon G. Flake",
+    "firstPublishYear" : 2001,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL478992W"
+  }, {
+    "title" : "The Hungry Young Widow",
+    "author" : "Phillip Carpenter",
+    "firstPublishYear" : 1971,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15683825W"
+  }, {
+    "title" : "Hungry Hill",
+    "author" : "Daphne du Maurier",
+    "firstPublishYear" : 1943,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL36617W"
+  }, {
+    "title" : "Nate the Great and the hungry book club",
+    "author" : "Marjorie Weinman Sharmat",
+    "firstPublishYear" : 2009,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL13786431W"
+  }, {
+    "title" : "Hungry Ladybugs",
+    "author" : "Judith Jango-Cohen",
+    "firstPublishYear" : 2002,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1989030W"
+  }, {
+    "title" : "The hungry moon",
+    "author" : "Ramsey Campbell",
+    "firstPublishYear" : 1986,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1840348W"
+  }, {
+    "title" : "One hundred hungry ants",
+    "author" : "Elinor J. Pinczes",
+    "firstPublishYear" : 1993,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3283031W"
+  }, {
+    "title" : "STAY HUNGRY STAY FOOLISH",
+    "author" : "Rashmi Bansal",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15869571W"
+  }, {
+    "title" : "Second Best Wife, The Hungry Tide, Wild Inheritance",
+    "author" : "Isabel Chace",
+    "firstPublishYear" : 1983,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17736822W"
+  }, {
+    "title" : "Feeding the Hungry Heart",
+    "author" : "Geneen Roth",
+    "firstPublishYear" : 1982,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2723935W"
+  }, {
+    "title" : "Hungry, Hungry Sharks",
+    "author" : "Mary Pope Osborne",
+    "firstPublishYear" : 1986,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15216379W"
+  }, {
+    "title" : "Hungry ghosts",
+    "author" : "Jasper Becker",
+    "firstPublishYear" : 1996,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2736716W"
+  }, {
+    "title" : "Short stories",
+    "author" : "Rabindranath Tagore",
+    "firstPublishYear" : 1916,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16312659W"
+  }, {
+    "title" : "Power Hungry",
+    "author" : "Wanda Swan",
+    "firstPublishYear" : 2022,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL29199201W"
+  }, {
+    "title" : "Hungry planet",
+    "author" : "Peter Menzel",
+    "firstPublishYear" : 2005,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1810477W"
+  }, {
+    "title" : "How We Are Hungry",
+    "author" : "Dave Eggers",
+    "firstPublishYear" : 2004,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL114662W"
+  }, {
+    "title" : "Hungry as the Sea",
+    "author" : "Wilbur Smith",
+    "firstPublishYear" : 1964,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8108342W"
+  }, {
+    "title" : "The hungry skeleton",
+    "author" : "F. R Robinson",
+    "firstPublishYear" : 1997,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8139530W"
+  }, {
+    "title" : "Predator's Gold (The Hungry City Chronicles)",
+    "author" : "Philip Reeve",
+    "firstPublishYear" : 2004,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5826883W"
+  }, {
+    "title" : "The hungry thing",
+    "author" : "Jan Slepian",
+    "firstPublishYear" : 1967,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15142765W"
+  }, {
+    "title" : "Hungry for More",
+    "author" : "Rachel Kramer Bussel",
+    "firstPublishYear" : 2014,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL21091183W"
+  }, {
+    "title" : "Money hungry",
+    "author" : "Sharon G. Flake",
+    "firstPublishYear" : 2003,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16050529W"
+  }, {
+    "title" : "A dark and hungry god arises",
+    "author" : "Stephen R. Donaldson",
+    "firstPublishYear" : 1992,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1902780W"
+  }, {
+    "title" : "Hungry Plants",
+    "author" : "Mary Batten",
+    "firstPublishYear" : 1999,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL56666W"
+  }, {
+    "title" : "The Princess in Black and the Hungry Bunny Horde",
+    "author" : "Shannon Hale",
+    "firstPublishYear" : 2016,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17592069W"
+  }, {
+    "title" : "The case of the hungry stranger",
+    "author" : "Crosby Newell Bonsall",
+    "firstPublishYear" : 1963,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2399848W"
+  }, {
+    "title" : "The hungry brain",
+    "author" : "Stephan J. Guyenet",
+    "firstPublishYear" : 2017,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20048779W"
+  }, {
+    "title" : "Life's Little Secrets & Shortcuts for Dummies",
+    "author" : "Hungry Minds",
+    "firstPublishYear" : 2001,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8513563W"
+  }, {
+    "title" : "Edible Economics",
+    "author" : "Ha-Joon Chang",
+    "firstPublishYear" : 2022,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL27415039W"
+  }, {
+    "title" : "The very hungry caterpillar's Easter colors",
+    "author" : "Eric Carle",
+    "firstPublishYear" : 2016,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20046868W"
+  }, {
+    "title" : "The hungry little monkey",
+    "author" : "Andy Blackford",
+    "firstPublishYear" : 2011,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15884126W"
+  }, {
+    "title" : "The hungry thing",
+    "author" : "Jan Slepian",
+    "firstPublishYear" : 1967,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2648338W"
+  }, {
+    "title" : "The hungry donkey",
+    "author" : "Heather Amery",
+    "firstPublishYear" : 1990,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2989774W"
+  }, {
+    "title" : "The hungry self",
+    "author" : "Kim Chernin",
+    "firstPublishYear" : 1985,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1846388W"
+  }, {
+    "title" : "Hungry Eyes",
+    "author" : "Barry Hoffman",
+    "firstPublishYear" : 1997,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5684491W"
+  }, {
+    "title" : "Hungry Hearts",
+    "author" : "Anzia Yezierska",
+    "firstPublishYear" : 1920,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL21088474W"
+  }, {
+    "title" : "Hungry for Love",
+    "author" : "Barbara Cartland",
+    "firstPublishYear" : 1976,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL137069W"
+  }, {
+    "title" : "Not Hungry",
+    "author" : "Kate Karyus Quinn",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL24328129W"
+  }, {
+    "title" : "The very hungry caterpillar's abc",
+    "author" : "Eric Carle",
+    "firstPublishYear" : 2015,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20031993W"
+  }, {
+    "title" : "Always hungry?",
+    "author" : "David Ludwig",
+    "firstPublishYear" : 2016,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17822808W"
+  }, {
+    "title" : "One hungry cat",
+    "author" : "Joanne Rocklin",
+    "firstPublishYear" : 1997,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL121002W"
+  }, {
+    "title" : "Hungry for You",
+    "author" : "Lynsay Sands",
+    "firstPublishYear" : 2010,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15505925W"
+  }, {
+    "title" : "Very Hungry Bear",
+    "author" : "Nick Bland",
+    "firstPublishYear" : 2012,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16796271W"
+  }, {
+    "title" : "Leonard and Hungry Paul",
+    "author" : "Rónán Hession",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20981914W"
+  }, {
+    "title" : "Hungry as the sea",
+    "author" : "Wilbur Smith",
+    "firstPublishYear" : 1978,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL10614303W"
+  }, {
+    "title" : "Hungry Girl 1-2-3",
+    "author" : "Lisa Lillien",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL11804161W"
+  }, {
+    "title" : "Hungry hills",
+    "author" : "George Ryga",
+    "firstPublishYear" : 1963,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL4007383W"
+  }, {
+    "title" : "Hungry lightning",
+    "author" : "Pei-Lin Yu",
+    "firstPublishYear" : 1997,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2631748W"
+  }, {
+    "title" : "Star Trek The Next Generation - Power Hungry",
+    "author" : "Howard Weinstein",
+    "firstPublishYear" : 1989,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3092115W"
+  }, {
+    "title" : "Hungry",
+    "author" : "Heather Swain",
+    "firstPublishYear" : 2014,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17933245W"
+  }, {
+    "title" : "Hungry Planet",
+    "author" : "Peter Menzel",
+    "firstPublishYear" : 2005,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20796766W"
+  }, {
+    "title" : "The Hungry Ocean",
+    "author" : "Linda Greenlaw",
+    "firstPublishYear" : 1999,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2004601W"
+  }, {
+    "title" : "Saturday the Rabbi Went Hungry",
+    "author" : "Harry Kemelman",
+    "firstPublishYear" : 1966,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2954858W"
+  }, {
+    "title" : "Hungry Ocean, The",
+    "author" : "Linda Greenlaw",
+    "firstPublishYear" : 1999,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2004595W"
+  }, {
+    "title" : "The hungry woman",
+    "author" : "Cherríe Moraga",
+    "firstPublishYear" : 2001,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL11639100W"
+  }, {
+    "title" : "The hungry goblin",
+    "author" : "John Dickson Carr",
+    "firstPublishYear" : 1972,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3020888W"
+  }, {
+    "title" : "Very Hungry Caterpillar Big Book",
+    "author" : "Hannah Ramirez",
+    "firstPublishYear" : 2020,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL30648361W"
+  }, {
+    "title" : "The Okay Witch and the Hungry Shadow",
+    "author" : "Emma Steinkellner",
+    "firstPublishYear" : 2021,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL24671856W"
+  }, {
+    "title" : "A banquet for hungry ghosts",
+    "author" : "Ying Chang Compestine",
+    "firstPublishYear" : 2009,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL891857W"
+  }, {
+    "title" : "Stay hungry",
+    "author" : "Sebastian Maniscalco",
+    "firstPublishYear" : 2018,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL19737789W"
+  }, {
+    "title" : "Happy Christmas from the Very Hungry Caterpillar",
+    "author" : "Katie Cotton",
+    "firstPublishYear" : 2017,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL21156402W"
+  }, {
+    "title" : "The Hungry Ghosts",
+    "author" : "Shyam Selvadurai",
+    "firstPublishYear" : 2013,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16809608W"
+  }, {
+    "title" : "Hungry city",
+    "author" : "Carolyn Steel",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL13601921W"
+  }, {
+    "title" : "Hungry souls",
+    "author" : "G. J. M. van den Aardweg",
+    "firstPublishYear" : 2009,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17723299W"
+  }, {
+    "title" : "Hungry Hearts",
+    "author" : "Elsie Chapman",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20145782W"
+  }, {
+    "title" : "Hungry Ghost",
+    "author" : "Keith Kachtick",
+    "firstPublishYear" : 2003,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5960242W"
+  }, {
+    "title" : "Yo, hungry wolf!",
+    "author" : "David Vozar",
+    "firstPublishYear" : 1993,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3296959W"
+  }, {
+    "title" : "Merry Christmas",
+    "author" : "Audrey Wood",
+    "firstPublishYear" : 2002,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL6091431W"
+  }, {
+    "title" : "Hungry",
+    "author" : "Alethea Eason",
+    "firstPublishYear" : 2007,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL276291W"
+  }, {
+    "title" : "Hungry hen",
+    "author" : "Richard Waring",
+    "firstPublishYear" : 2001,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2671896W"
+  }, {
+    "title" : "Hungry As the Sea",
+    "author" : "Wilbur Smith",
+    "firstPublishYear" : 1978,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL90648W"
+  }, {
+    "title" : "Hungry! Hungry! Hungry!",
+    "author" : "Malachy Doyle",
+    "firstPublishYear" : 2000,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1937877W"
+  }, {
+    "title" : "Hungry Coat: A Tale From Turkey",
+    "author" : "Demi",
+    "firstPublishYear" : 2004,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15688572W"
+  }, {
+    "title" : "20 Hungry Piggies",
+    "author" : "Trudy Harris",
+    "firstPublishYear" : 2006,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL544701W"
+  }, {
+    "title" : "One hundred hungry ants",
+    "author" : "Elinor J. Pinczes",
+    "firstPublishYear" : 1999,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL18174742W"
+  }, {
+    "title" : "The Care and Feeding of Ravenously Hungry Girls",
+    "author" : "Anissa Gray",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20163116W"
+  }, {
+    "title" : "Hungry for it",
+    "author" : "Fiona Zedde",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8488647W"
+  }, {
+    "title" : "The hungry giant's soup",
+    "author" : "Joy Cowley",
+    "firstPublishYear" : 1992,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15023838W"
+  }, {
+    "title" : "40 chances",
+    "author" : "Howard G. Buffett",
+    "firstPublishYear" : 2013,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL19671101W"
+  }, {
+    "title" : "Hungry Ghosts",
+    "author" : "Kevin Jared Hosein",
+    "firstPublishYear" : 2023,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL28088271W"
+  }, {
+    "title" : "Cravings: Hungry for More",
+    "author" : "Chrissy Teigen",
+    "firstPublishYear" : 2018,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL18147926W"
+  }, {
+    "title" : "Anthony Bourdain's hungry ghosts",
+    "author" : "Anthony Bourdain",
+    "firstPublishYear" : 2018,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL19761184W"
+  }, {
+    "title" : "A Hungry Lion",
+    "author" : "Lucy Ruth Cummins",
+    "firstPublishYear" : 2016,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17366224W"
+  }, {
+    "title" : "I love Mom with the very hungry caterpillar",
+    "author" : "Eric Carle",
+    "firstPublishYear" : 2016,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20049426W"
+  }, {
+    "title" : "power the queen's court hungry book one",
+    "author" : "Wanda Swan",
+    "firstPublishYear" : 2022,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL36511958W"
+  }, {
+    "title" : "The Very Hungry Caterpillar's Christmas 123",
+    "author" : "Eric Carle",
+    "firstPublishYear" : 2015,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL24367170W"
+  }, {
+    "title" : "The Hungry Year",
+    "author" : "Connie Brummel Crook",
+    "firstPublishYear" : 2001,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2066029W"
+  }, {
+    "title" : "Love from The Very Hungry Caterpillar",
+    "author" : "Eric Carle",
+    "firstPublishYear" : 2015,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20177861W"
+  }, {
+    "title" : "Merry Christmas, big hungry bear!",
+    "author" : "Don Wood",
+    "firstPublishYear" : 2004,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15146322W"
+  }, {
+    "title" : "The hungry monster",
+    "author" : "Phyllis Root",
+    "firstPublishYear" : 1996,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15273725W"
+  }, {
+    "title" : "The Hungry Soul",
+    "author" : "Leon Kass",
+    "firstPublishYear" : 1994,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1876029W"
+  } ]
+}

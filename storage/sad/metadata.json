@@ -1,0 +1,505 @@
+{
+  "topic" : "sad",
+  "openLibraryUrl" : "https://openlibrary.org/search.json?q=sad",
+  "books" : [ {
+    "title" : "Sad Cypress",
+    "author" : "Agatha Christie",
+    "firstPublishYear" : 1939,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL471870W"
+  }, {
+    "title" : "My Friend is Sad",
+    "author" : "Mo Willems",
+    "firstPublishYear" : 2007,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5759983W"
+  }, {
+    "title" : "Everything Sad Is Untrue",
+    "author" : "Daniel Nayeri",
+    "firstPublishYear" : 2020,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20744409W"
+  }, {
+    "title" : "Michael Rosen's sad book",
+    "author" : "Michael Rosen",
+    "firstPublishYear" : 2004,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL832196W"
+  }, {
+    "title" : "Scott Pilgrim & the infinite sadness (Scott Pilgrim, Vol. 3)",
+    "author" : "Bryan Lee O'Malley",
+    "firstPublishYear" : 2006,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5859249W"
+  }, {
+    "title" : "Super sad true love story",
+    "author" : "Gary Shteyngart",
+    "firstPublishYear" : 2001,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15326463W"
+  }, {
+    "title" : "Sad girls",
+    "author" : "Lang Leav",
+    "firstPublishYear" : 2017,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20056505W"
+  }, {
+    "title" : "Don't be sad",
+    "author" : "عائض القرني",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16310798W"
+  }, {
+    "title" : "Вишневый сад",
+    "author" : "Антон Павлович Чехов",
+    "firstPublishYear" : 1918,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL55417W"
+  }, {
+    "title" : "The edge of sadness",
+    "author" : "Edwin O'Connor",
+    "firstPublishYear" : 1961,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL4652269W"
+  }, {
+    "title" : "So sad today",
+    "author" : "Melissa Broder",
+    "firstPublishYear" : 2016,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20026357W"
+  }, {
+    "title" : "No Sad Song",
+    "author" : "Alison York",
+    "firstPublishYear" : 1987,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL4573840W"
+  }, {
+    "title" : "Sad perfect",
+    "author" : "Stephanie Elliot",
+    "firstPublishYear" : 2017,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20051644W"
+  }, {
+    "title" : "Sadness Book - a Journal to Let Go",
+    "author" : "Elias Baar",
+    "firstPublishYear" : 2022,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL27941490W"
+  }, {
+    "title" : "Claudia and the sad good-bye",
+    "author" : "Ann M. Martin",
+    "firstPublishYear" : 1989,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL817968W"
+  }, {
+    "title" : "Love is a sad song",
+    "author" : "Ruskin Bond",
+    "firstPublishYear" : 1975,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL384620W"
+  }, {
+    "title" : "The Particular Sadness of Lemon Cake",
+    "author" : "Aimee Bender",
+    "firstPublishYear" : 2010,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15168504W"
+  }, {
+    "title" : "All The Sad Young Men",
+    "author" : "F. Scott Fitzgerald",
+    "firstPublishYear" : 1926,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL468355W"
+  }, {
+    "title" : "Sad Wind from the Sea",
+    "author" : "Henry Patterson",
+    "firstPublishYear" : 1942,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL157328W"
+  }, {
+    "title" : "Triste tigre",
+    "author" : "Neige Sinno",
+    "firstPublishYear" : 2023,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL38407634W"
+  }, {
+    "title" : "Glad monster, sad monster",
+    "author" : "Ed Emberley",
+    "firstPublishYear" : 1997,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2725667W"
+  }, {
+    "title" : "The ballad of the sad café and other stories",
+    "author" : "Carson McCullers",
+    "firstPublishYear" : 1958,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL14864467W"
+  }, {
+    "title" : "The particular sadness of lemon cake",
+    "author" : "Aimee Bender",
+    "firstPublishYear" : 2010,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15469195W"
+  }, {
+    "title" : "Feeling Sad",
+    "author" : "Helen Frost",
+    "firstPublishYear" : 2000,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15045616W"
+  }, {
+    "title" : "When I Feel Sad (The Way I Feel Books)",
+    "author" : "Cornelia Maude Spelman",
+    "firstPublishYear" : 2002,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8453314W"
+  }, {
+    "title" : "Sad",
+    "author" : "Sarah Medina",
+    "firstPublishYear" : 2007,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3736549W"
+  }, {
+    "title" : "Sadness",
+    "author" : "Donald Barthelme",
+    "firstPublishYear" : 1972,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2644541W"
+  }, {
+    "title" : "Utsukushisa to kanashimi to",
+    "author" : "川端康成",
+    "firstPublishYear" : 1965,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2045108W"
+  }, {
+    "title" : "ONE PIECE 69",
+    "author" : "尾田栄一郎",
+    "firstPublishYear" : 2012,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16819400W"
+  }, {
+    "title" : "The sad tale of the brothers Grossbart",
+    "author" : "Jesse Bullington",
+    "firstPublishYear" : 2009,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL13771875W"
+  }, {
+    "title" : "Don't Be Sad",
+    "author" : "عائض القرني",
+    "firstPublishYear" : 2005,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16816965W"
+  }, {
+    "title" : "When Sadness is at Your Door",
+    "author" : "Eva Eland",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20161382W"
+  }, {
+    "title" : "Malignant Sadness",
+    "author" : "Lewis Wolpert",
+    "firstPublishYear" : 1999,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2634704W"
+  }, {
+    "title" : "Agatha Christie Crime Collection (Appointment with Death / Crooked House / Sad Cypress)",
+    "author" : "Agatha Christie",
+    "firstPublishYear" : 1969,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20911948W"
+  }, {
+    "title" : "My sad republic",
+    "author" : "Eric Gamalinda",
+    "firstPublishYear" : 2000,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL950338W"
+  }, {
+    "title" : "Feeling sad",
+    "author" : "Joy Berry",
+    "firstPublishYear" : 1996,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2403785W"
+  }, {
+    "title" : "Kissed a sad goodbye",
+    "author" : "Deborah Crombie",
+    "firstPublishYear" : 1999,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17692W"
+  }, {
+    "title" : "My sad captains",
+    "author" : "Thom Gunn",
+    "firstPublishYear" : 1961,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL35878W"
+  }, {
+    "title" : "Strawberry Shortcake and Sad Mister Sun Parker Brothers Story Book Strawberry Shortcake",
+    "author" : "Joan M. Lexau",
+    "firstPublishYear" : 1983,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL640631W"
+  }, {
+    "title" : "De ballade van de droeve herberg",
+    "author" : "Carson McCullers",
+    "firstPublishYear" : 1958,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL14864424W"
+  }, {
+    "title" : "Attachment and loss",
+    "author" : "John Bowlby",
+    "firstPublishYear" : 1969,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL773852W"
+  }, {
+    "title" : "The last hurrah ; The edge of sadness",
+    "author" : "Edwin O'Connor",
+    "firstPublishYear" : 1956,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15397909W"
+  }, {
+    "title" : "The sad truth about happiness",
+    "author" : "Anne Giardini",
+    "firstPublishYear" : 2005,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5737153W"
+  }, {
+    "title" : "My Sad Republic",
+    "author" : "Eric Gamalinda",
+    "firstPublishYear" : 2021,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL27846963W"
+  }, {
+    "title" : "Sad Is...",
+    "author" : "Laura Purdie Salas",
+    "firstPublishYear" : 2011,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL21036339W"
+  }, {
+    "title" : "Sad",
+    "author" : "Esther Adler",
+    "firstPublishYear" : 2014,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20326460W"
+  }, {
+    "title" : "The Sad Little Fact",
+    "author" : "Jonah Winter",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20082442W"
+  }, {
+    "title" : "Sad Sad Monster",
+    "author" : "Dolores Costello",
+    "firstPublishYear" : 2017,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL34046310W"
+  }, {
+    "title" : "Saints are not sad",
+    "author" : "Frank J. Sheed",
+    "firstPublishYear" : 1949,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3970130W"
+  }, {
+    "title" : "Sad Ghost Club",
+    "author" : "Lize Meddings",
+    "firstPublishYear" : 2021,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL21688622W"
+  }, {
+    "title" : "Pretty Sad",
+    "author" : "Rai Tremble",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL24484059W"
+  }, {
+    "title" : "The Ballad of the Sad Cafe and Other Stories",
+    "author" : "Carson McCullers",
+    "firstPublishYear" : 1983,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8367719W"
+  }, {
+    "title" : "Singing the Sadness",
+    "author" : "Reginald Hill",
+    "firstPublishYear" : 1999,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL57034W"
+  }, {
+    "title" : "The other side of sadness",
+    "author" : "George A. Bonanno",
+    "firstPublishYear" : 2009,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL13783907W"
+  }, {
+    "title" : "How to Be Sad",
+    "author" : "Helen Russell",
+    "firstPublishYear" : 2021,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL24460458W"
+  }, {
+    "title" : "Sadness and happiness",
+    "author" : "Robert Pinsky",
+    "firstPublishYear" : 1975,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL482956W"
+  }, {
+    "title" : "How to Be Happy (Or at Least Less Sad)",
+    "author" : "Lee Crutchley",
+    "firstPublishYear" : 2015,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20648825W"
+  }, {
+    "title" : "Everyone feels sad sometimes",
+    "author" : "Marcie Aboff",
+    "firstPublishYear" : 2009,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3270844W"
+  }, {
+    "title" : "Happiness is a sad song",
+    "author" : "Charles M. Schulz",
+    "firstPublishYear" : 1967,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15160788W"
+  }, {
+    "title" : "Sad W/uml",
+    "author" : "Alan Dennis",
+    "firstPublishYear" : 2004,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5973034W"
+  }, {
+    "title" : "All the Sad Young Literary Men",
+    "author" : "Keith Gessen",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8843483W"
+  }, {
+    "title" : "The sad variety",
+    "author" : "Cecil Day-Lewis",
+    "firstPublishYear" : 1964,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL4459058W"
+  }, {
+    "title" : "Ice Cream & Sadness",
+    "author" : "Kris Wilson",
+    "firstPublishYear" : 2010,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16798584W"
+  }, {
+    "title" : "The ballad of the sad café",
+    "author" : "Edward Albee",
+    "firstPublishYear" : 1963,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2460254W"
+  }, {
+    "title" : "A Shelter for Sadness",
+    "author" : "Booth, Anne (Children's fiction writer)",
+    "firstPublishYear" : 2021,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL25298516W"
+  }, {
+    "title" : "Feelings",
+    "author" : "Núria Roca",
+    "firstPublishYear" : 2001,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2926165W"
+  }, {
+    "title" : "Secret de Nicolas Tesla",
+    "author" : "Jeid Sad",
+    "firstPublishYear" : 2020,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL30594837W"
+  }, {
+    "title" : "Speaking of Sadness",
+    "author" : "David Allen Karp",
+    "firstPublishYear" : 1995,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2146990W"
+  }, {
+    "title" : "Don't be sad",
+    "author" : "",
+    "firstPublishYear" : 2003,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16951382W"
+  }, {
+    "title" : "Moly, and My sad captains",
+    "author" : "Thom Gunn",
+    "firstPublishYear" : 1973,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL35511W"
+  }, {
+    "title" : "Why are you so sad?",
+    "author" : "Jason Porter",
+    "firstPublishYear" : 2014,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL19707570W"
+  }, {
+    "title" : "Sadness is a white bird",
+    "author" : "Moriel Rothman-Zecher",
+    "firstPublishYear" : 2018,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL19732050W"
+  }, {
+    "title" : "Mad, Bad and Sad",
+    "author" : "Lisa Appignanesi",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL866709W"
+  }, {
+    "title" : "Vessel of sadness",
+    "author" : "William Woodruff",
+    "firstPublishYear" : 1969,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2738368W"
+  }, {
+    "title" : "Sad Birds Still Sing",
+    "author" : "Faraway",
+    "firstPublishYear" : 2017,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL24338628W"
+  }, {
+    "title" : "Ballad Of The Sad Cafe",
+    "author" : "Carson McCullers",
+    "firstPublishYear" : 1983,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8367716W"
+  }, {
+    "title" : "Don't Be Sad",
+    "author" : "Noaha",
+    "firstPublishYear" : 1980,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL25452334W"
+  }, {
+    "title" : "Sad Song",
+    "author" : "Vincent Banville",
+    "firstPublishYear" : 1999,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3171732W"
+  }, {
+    "title" : "Sadness at leaving",
+    "author" : "Erje Ayden",
+    "firstPublishYear" : 1972,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL4057643W"
+  }, {
+    "title" : "Happy dog sad dog",
+    "author" : "Sam Lloyd",
+    "firstPublishYear" : 2003,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5838341W"
+  }, {
+    "title" : "So sad to fall in battle",
+    "author" : "Kumiko Kakehashi",
+    "firstPublishYear" : 2007,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8621574W"
+  }, {
+    "title" : "The sad night",
+    "author" : "SallySchofer Mathews",
+    "firstPublishYear" : 1994,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL13584035W"
+  }, {
+    "title" : "The particular sadness of lemon cake",
+    "author" : "Aimee Bender",
+    "firstPublishYear" : 2010,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20897702W"
+  }, {
+    "title" : "Remember This When You're Sad",
+    "author" : "Maggy Van Eijk",
+    "firstPublishYear" : 2018,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20727612W"
+  }, {
+    "title" : "Prinsipe malungkot =",
+    "author" : "Dudi E. Gamos",
+    "firstPublishYear" : 2002,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL13735311W"
+  }, {
+    "title" : "Sad Animal Facts",
+    "author" : "Brooke Barker",
+    "firstPublishYear" : 2016,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17587399W"
+  }, {
+    "title" : "Little Unicorn is Sad",
+    "author" : "Aurélie Chien Chow Chine",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL24212772W"
+  }, {
+    "title" : "Sad Peninsula",
+    "author" : "Mark Sampson",
+    "firstPublishYear" : 2014,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17416781W"
+  }, {
+    "title" : "A Secret Sadness",
+    "author" : "Valerie E. Whiffen",
+    "firstPublishYear" : 2007,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8920611W"
+  }, {
+    "title" : "Agatha Christie's Detectives (Dead Man's Folly / Murder at the Vicarage / N or M? / Sad Cypress / Towards Zero)",
+    "author" : "Agatha Christie",
+    "firstPublishYear" : 1982,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL472802W"
+  }, {
+    "title" : "Dr Birds Advice For Sad Poets",
+    "author" : "Evan Roskos",
+    "firstPublishYear" : 2013,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17576370W"
+  }, {
+    "title" : "The Ballad Of The Sad Cafe and other stories",
+    "author" : "Carson McCullers",
+    "firstPublishYear" : 1969,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL14864456W"
+  }, {
+    "title" : "Traurigen Geranien und andere Geschichten aus dem Nachlass",
+    "author" : "Wolfgang Borchert",
+    "firstPublishYear" : 1973,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2808145W"
+  }, {
+    "title" : "The sad shepherd",
+    "author" : "Henry van Dyke",
+    "firstPublishYear" : 1911,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2254081W"
+  }, {
+    "title" : "Sad, mad and bad",
+    "author" : "Lisa Appignanesi",
+    "firstPublishYear" : 2007,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL866711W"
+  }, {
+    "title" : "Sad Love Stories",
+    "author" : "John T. Young",
+    "firstPublishYear" : 2000,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2744585W"
+  }, {
+    "title" : "Sad, sad William",
+    "author" : "Gitte Spee",
+    "firstPublishYear" : 1996,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2987874W"
+  }, {
+    "title" : "Sad",
+    "author" : "Janine Amos",
+    "firstPublishYear" : 1994,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20582363W"
+  }, {
+    "title" : "The Cement Garden",
+    "author" : "Ian McEwan",
+    "firstPublishYear" : 1978,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1855884W"
+  }, {
+    "title" : "Baby Happy Baby Sad",
+    "author" : "Leslie Patricelli",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3667894W"
+  } ]
+}

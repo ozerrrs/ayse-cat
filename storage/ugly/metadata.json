@@ -1,0 +1,95 @@
+{
+  "topic" : "ugly",
+  "openLibraryUrl" : "https://openlibrary.org/search.json?q=ugly&limit=18",
+  "books" : [ {
+    "title" : "Uglies",
+    "author" : "Scott Westerfeld",
+    "firstPublishYear" : 2005,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL547172W"
+  }, {
+    "title" : "Ugly Love",
+    "author" : "Colleen Hoover",
+    "firstPublishYear" : 2014,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20577143W"
+  }, {
+    "title" : "The Ugly Duckling",
+    "author" : "Hans Christian Andersen",
+    "firstPublishYear" : 1851,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15155002W"
+  }, {
+    "title" : "Pretties",
+    "author" : "Scott Westerfeld",
+    "firstPublishYear" : 2005,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL547147W"
+  }, {
+    "title" : "The Ugly Truth",
+    "author" : "Jeff Kinney",
+    "firstPublishYear" : 2010,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15192743W"
+  }, {
+    "title" : "The Ugly American",
+    "author" : "William J. Lederer",
+    "firstPublishYear" : 1958,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3951782W"
+  }, {
+    "title" : "The Ugly Duchess",
+    "author" : "Eloisa James",
+    "firstPublishYear" : 2012,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16802546W"
+  }, {
+    "title" : "God don't like ugly",
+    "author" : "Mary Monroe",
+    "firstPublishYear" : 2000,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16025923W"
+  }, {
+    "title" : "Beautiful Ugly",
+    "author" : "Alice Feeney",
+    "firstPublishYear" : 2025,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL42416706W"
+  }, {
+    "title" : "Excuse Me While I Ugly Cry",
+    "author" : "Joya Goffney",
+    "firstPublishYear" : 2021,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL21163821W"
+  }, {
+    "title" : "Sleeping Ugly",
+    "author" : "Jane Yolen",
+    "firstPublishYear" : 1981,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL97363W"
+  }, {
+    "title" : "Uglies & Pretties",
+    "author" : "Scott Westerfeld",
+    "firstPublishYear" : 2015,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20304578W"
+  }, {
+    "title" : "Quite Ugly One Morning",
+    "author" : "Christopher Brookmyre",
+    "firstPublishYear" : 1996,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL755473W"
+  }, {
+    "title" : "All the ugly and wonderful things",
+    "author" : "Bryn Greenwood",
+    "firstPublishYear" : 2016,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20035152W"
+  }, {
+    "title" : "The DUFF",
+    "author" : "Kody Keplinger",
+    "firstPublishYear" : 2010,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16095089W"
+  }, {
+    "title" : "Extras",
+    "author" : "Scott Westerfeld",
+    "firstPublishYear" : 2007,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL547141W"
+  }, {
+    "title" : "Ugly Love, Maybe Someday, and Maybe Not",
+    "author" : "Colleen Hoover",
+    "firstPublishYear" : 2015,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL25381140W"
+  }, {
+    "title" : "The Ugly Duckling",
+    "author" : "Iris Johansen",
+    "firstPublishYear" : 1996,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL115405W"
+  } ]
+}

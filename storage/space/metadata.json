@@ -1,0 +1,505 @@
+{
+  "topic" : "space",
+  "openLibraryUrl" : "https://openlibrary.org/search.json?q=space",
+  "books" : [ {
+    "title" : "Revelation Space",
+    "author" : "Alastair Reynolds",
+    "firstPublishYear" : 2000,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5724837W"
+  }, {
+    "title" : "2001",
+    "author" : "Arthur C. Clarke",
+    "firstPublishYear" : 1968,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17365W"
+  }, {
+    "title" : "The Currents of Space",
+    "author" : "Isaac Asimov",
+    "firstPublishYear" : 1952,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL46385W"
+  }, {
+    "title" : "Have Spacesuit--Will Travel",
+    "author" : "Robert A. Heinlein",
+    "firstPublishYear" : 1958,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL59727W"
+  }, {
+    "title" : "The Space Merchants",
+    "author" : "Frederik Pohl",
+    "firstPublishYear" : 1952,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL60943W"
+  }, {
+    "title" : "Perelandra",
+    "author" : "C. S. Lewis",
+    "firstPublishYear" : 1943,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL71163W"
+  }, {
+    "title" : "Small spaces",
+    "author" : "Katherine Arden",
+    "firstPublishYear" : 2018,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL19760806W"
+  }, {
+    "title" : "Destination",
+    "author" : "Seymour Simon",
+    "firstPublishYear" : 2000,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL118135W"
+  }, {
+    "title" : "Space Opera",
+    "author" : "Catherynne M. Valente",
+    "firstPublishYear" : 2018,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL19741544W"
+  }, {
+    "title" : "Space Cadet",
+    "author" : "Robert A. Heinlein",
+    "firstPublishYear" : 1948,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL59710W"
+  }, {
+    "title" : "Tales of space and time",
+    "author" : "H. G. Wells",
+    "firstPublishYear" : 1899,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL52211W"
+  }, {
+    "title" : "Architecture, form, space & order",
+    "author" : "Frank Ching",
+    "firstPublishYear" : 1979,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL30636W"
+  }, {
+    "title" : "The Skylark of Space",
+    "author" : "Edward E. Smith",
+    "firstPublishYear" : 1946,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2685476W"
+  }, {
+    "title" : "Saturn's Children",
+    "author" : "Charles Stross",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2465692W"
+  }, {
+    "title" : "La course aux étoiles",
+    "author" : "James A. Michener",
+    "firstPublishYear" : 1982,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2385345W"
+  }, {
+    "title" : "Pegasus in Space",
+    "author" : "Anne McCaffrey",
+    "firstPublishYear" : 2000,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL73373W"
+  }, {
+    "title" : "Space Viking",
+    "author" : "H. Beam Piper",
+    "firstPublishYear" : 1963,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL579067W"
+  }, {
+    "title" : "A Mango-Shaped Space",
+    "author" : "Wendy Mass",
+    "firstPublishYear" : 2003,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL464707W"
+  }, {
+    "title" : "Manifold",
+    "author" : "Stephen Baxter",
+    "firstPublishYear" : 2000,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL72833W"
+  }, {
+    "title" : "Tales of Known Space",
+    "author" : "Larry Niven",
+    "firstPublishYear" : 1975,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL510449W"
+  }, {
+    "title" : "The poetics of space",
+    "author" : "Gaston Bachelard",
+    "firstPublishYear" : 1964,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1304839W"
+  }, {
+    "title" : "The Voyage of the Space Beagle",
+    "author" : "A. E. van Vogt",
+    "firstPublishYear" : 1950,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL21831W"
+  }, {
+    "title" : "S is for space",
+    "author" : "Ray Bradbury",
+    "firstPublishYear" : 1966,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL103178W"
+  }, {
+    "title" : "Space",
+    "author" : "James A. Michener",
+    "firstPublishYear" : 1982,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2385440W"
+  }, {
+    "title" : "The Space Between Worlds",
+    "author" : "Micaiah Johnson",
+    "firstPublishYear" : 2020,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20884745W"
+  }, {
+    "title" : "N-Space",
+    "author" : "Larry Niven",
+    "firstPublishYear" : 1990,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL510442W"
+  }, {
+    "title" : "S.O.S. C'e Un Topo Nello Spazio!",
+    "author" : "Elisabetta Dami",
+    "firstPublishYear" : 2011,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17479166W"
+  }, {
+    "title" : "David Starr - Space Ranger",
+    "author" : "Isaac Asimov",
+    "firstPublishYear" : 1952,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL46102W"
+  }, {
+    "title" : "Space, time and architecture",
+    "author" : "Sigfried Giedion",
+    "firstPublishYear" : 1941,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1161577W"
+  }, {
+    "title" : "Zathura",
+    "author" : "Chris Van Allsburg",
+    "firstPublishYear" : 2002,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3743761W"
+  }, {
+    "title" : "Space Trilogy",
+    "author" : "C. S. Lewis",
+    "firstPublishYear" : 1975,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL71112W"
+  }, {
+    "title" : "Beautifying urban America",
+    "author" : "",
+    "firstPublishYear" : 1966,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15396986M"
+  }, {
+    "title" : "Negative Space",
+    "author" : "B.R. Yeager",
+    "firstPublishYear" : 2020,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20870249W"
+  }, {
+    "title" : "Space demons",
+    "author" : "Gillian Rubinstein",
+    "firstPublishYear" : 1988,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1683267W"
+  }, {
+    "title" : "Hidden Figures",
+    "author" : "Margot Lee Shetterly",
+    "firstPublishYear" : 2016,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17598637W"
+  }, {
+    "title" : "A Hole in Space",
+    "author" : "Larry Niven",
+    "firstPublishYear" : 1974,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL510437W"
+  }, {
+    "title" : "Space Dog Meets Space Cat",
+    "author" : "Vivian French",
+    "firstPublishYear" : 1999,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL481692W"
+  }, {
+    "title" : "What's your happy space...",
+    "author" : "Elizabeth Bernath",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL24608334W"
+  }, {
+    "title" : "Protector",
+    "author" : "Larry Niven",
+    "firstPublishYear" : 1973,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL510450W"
+  }, {
+    "title" : "Elements of Space Making",
+    "author" : "Yatin Pandya",
+    "firstPublishYear" : 2006,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL6049531W"
+  }, {
+    "title" : "Space Wolf",
+    "author" : "William King",
+    "firstPublishYear" : 2000,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2876174W"
+  }, {
+    "title" : "Stanley in space",
+    "author" : "Jeff Brown",
+    "firstPublishYear" : 1990,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL11476071W"
+  }, {
+    "title" : "Space Case",
+    "author" : "Stuart Gibbs",
+    "firstPublishYear" : 2014,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17081171W"
+  }, {
+    "title" : "The power of color",
+    "author" : "Sara O. Marberry",
+    "firstPublishYear" : 1995,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL3491194W"
+  }, {
+    "title" : "Preschool Activity Workbook",
+    "author" : "Happy Creative Space",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL29786624W"
+  }, {
+    "title" : "The Door Through Space",
+    "author" : "Marion Zimmer Bradley",
+    "firstPublishYear" : 1961,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL23784W"
+  }, {
+    "title" : "The empty space",
+    "author" : "Peter Brook",
+    "firstPublishYear" : 1968,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL277059W"
+  }, {
+    "title" : "Space-time and beyond",
+    "author" : "Bob Toben",
+    "firstPublishYear" : 1975,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5916682W"
+  }, {
+    "title" : "Daring To Take Up Space",
+    "author" : "Daniell Koepke",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL22062036W"
+  }, {
+    "title" : "No Logo",
+    "author" : "Naomi Klein",
+    "firstPublishYear" : 1999,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL6017245W"
+  }, {
+    "title" : "Space And Beyond",
+    "author" : "R. A. Montgomery",
+    "firstPublishYear" : 1980,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2928272W"
+  }, {
+    "title" : "Shaping space",
+    "author" : "Paul Zelanski",
+    "firstPublishYear" : 1987,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2561067W"
+  }, {
+    "title" : "Bio of a Space Tyrant - Vol. 1 Refugee",
+    "author" : "Piers Anthony",
+    "firstPublishYear" : 1983,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL80796W"
+  }, {
+    "title" : "Sargasso of Space",
+    "author" : "Andre Norton",
+    "firstPublishYear" : 1955,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL473292W"
+  }, {
+    "title" : "Prelude to Space",
+    "author" : "Arthur C. Clarke",
+    "firstPublishYear" : 1953,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17394W"
+  }, {
+    "title" : "Space Propulsion Analysis and Design",
+    "author" : "Ronald Humble",
+    "firstPublishYear" : 1995,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL4635852W"
+  }, {
+    "title" : "Star Wars - The Clone Wars - Wild Space",
+    "author" : "Karen Miller",
+    "firstPublishYear" : 2008,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL12048885W"
+  }, {
+    "title" : "The Colors of Space",
+    "author" : "Marion Zimmer Bradley",
+    "firstPublishYear" : 1963,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL23767W"
+  }, {
+    "title" : "Letter Tracing Books",
+    "author" : "Happy Creative Space",
+    "firstPublishYear" : 2018,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL29463473W"
+  }, {
+    "title" : "Space mission engineering",
+    "author" : "James Richard Wertz",
+    "firstPublishYear" : 2011,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL16600794W"
+  }, {
+    "title" : "The colour out of space",
+    "author" : "H.P. Lovecraft",
+    "firstPublishYear" : 1967,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15136326W"
+  }, {
+    "title" : "Space",
+    "author" : "Sue Becklake",
+    "firstPublishYear" : 1988,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2119440W"
+  }, {
+    "title" : "The Space Between Us",
+    "author" : "Thrity N. Umrigar",
+    "firstPublishYear" : 2005,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL276067W"
+  }, {
+    "title" : "Pre K Workbook Cursive",
+    "author" : "Happy Creative Space",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL29462786W"
+  }, {
+    "title" : "Out of the Silent Planet",
+    "author" : "C. S. Lewis",
+    "firstPublishYear" : 1938,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL71166W"
+  }, {
+    "title" : "Journey Through Space",
+    "author" : "Ryder Windham",
+    "firstPublishYear" : 2005,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2031503W"
+  }, {
+    "title" : "Space Planning Basics",
+    "author" : "Mark Karlen",
+    "firstPublishYear" : 2009,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17406545W"
+  }, {
+    "title" : "Space Adjacency Analysis",
+    "author" : "Edward T. White",
+    "firstPublishYear" : 1986,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL553602W"
+  }, {
+    "title" : "Hello Baby",
+    "author" : "Amanda Westcott",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL23700135W"
+  }, {
+    "title" : "Pericolo spazzatura spaziale",
+    "author" : "Elisabetta Dami",
+    "firstPublishYear" : 2016,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL17916977W"
+  }, {
+    "title" : "Give Yourself Goosebumps - Zapped in Space",
+    "author" : "Robert Lawrence Stine",
+    "firstPublishYear" : 1997,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15094921W"
+  }, {
+    "title" : "Packing for Mars",
+    "author" : "Mary Roach",
+    "firstPublishYear" : 2010,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15272404W"
+  }, {
+    "title" : "ABC's of space",
+    "author" : "Isaac Asimov",
+    "firstPublishYear" : 1969,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15861358W"
+  }, {
+    "title" : "Sherlock Holmes Through Time and Space",
+    "author" : "Isaac Asimov",
+    "firstPublishYear" : 1984,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL14959533W"
+  }, {
+    "title" : "Shaping Interior Space",
+    "author" : "Roberto J. Rengel",
+    "firstPublishYear" : 2002,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5965452W"
+  }, {
+    "title" : "A City on Mars",
+    "author" : "Kelly Weinersmith",
+    "firstPublishYear" : 2023,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL35108677W"
+  }, {
+    "title" : "The Fabric of the Cosmos",
+    "author" : "Brian Greene",
+    "firstPublishYear" : 2004,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1909291W"
+  }, {
+    "title" : "Finite-dimensional vector spaces",
+    "author" : "Paul R. Halmos",
+    "firstPublishYear" : 1942,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2776846W"
+  }, {
+    "title" : "Existence, space and architecture.",
+    "author" : "Christian Norberg-Schulz",
+    "firstPublishYear" : 1974,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15139092W"
+  }, {
+    "title" : "Six not-so-easy pieces",
+    "author" : "Richard Phillips Feynman",
+    "firstPublishYear" : 1997,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL514625W"
+  }, {
+    "title" : "Columbus of Space",
+    "author" : "Garrett Putman Serviss",
+    "firstPublishYear" : 1911,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL4998696W"
+  }, {
+    "title" : "Outer Space Coloring Book for Kids",
+    "author" : "Space Coloring Books",
+    "firstPublishYear" : 2019,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL29967795W"
+  }, {
+    "title" : "The Divine Matrix",
+    "author" : "Gregg Braden",
+    "firstPublishYear" : 2006,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8198181W"
+  }, {
+    "title" : "A Stitch in Time",
+    "author" : "Andrew J. Robinson",
+    "firstPublishYear" : 2000,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL5689430W"
+  }, {
+    "title" : "Elon Musk",
+    "author" : "Ryan Nagelhout",
+    "firstPublishYear" : 2017,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20207214W"
+  }, {
+    "title" : "Executive, Vol. 4",
+    "author" : "Piers Anthony",
+    "firstPublishYear" : 1985,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL80774W"
+  }, {
+    "title" : "The conquest of interplanetary space",
+    "author" : "I͡Uriĭ Vasilʹevich Kondrati͡uk",
+    "firstPublishYear" : 1997,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2061381W"
+  }, {
+    "title" : "We Dream of Space",
+    "author" : "Erin Entrada Kelly",
+    "firstPublishYear" : 2020,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20734401W"
+  }, {
+    "title" : "The Outer Space Mystery",
+    "author" : "Gertrude Chandler Warner",
+    "firstPublishYear" : 1997,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL15061292W"
+  }, {
+    "title" : "Mathematics",
+    "author" : "Irving Adler",
+    "firstPublishYear" : 1958,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL6584861W"
+  }, {
+    "title" : "Space Exploration (DK Eyewitness Books)",
+    "author" : "Carole Stott",
+    "firstPublishYear" : 1995,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1817057W"
+  }, {
+    "title" : "NEWTON'S WAKE: A SPACE OPERA",
+    "author" : "Ken MacLeod",
+    "firstPublishYear" : 2004,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL7923840W"
+  }, {
+    "title" : "DK space encyclopedia",
+    "author" : "Heather Couper",
+    "firstPublishYear" : 1999,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL2715423W"
+  }, {
+    "title" : "Mind games",
+    "author" : "Robert E. L. Masters",
+    "firstPublishYear" : 1972,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL1885646W"
+  }, {
+    "title" : "Choose Your Own Adventure - Space Patrol",
+    "author" : "Julius Goodman",
+    "firstPublishYear" : 1983,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8367037W"
+  }, {
+    "title" : "Me and My Place in Space",
+    "author" : "Joan Sweeney",
+    "firstPublishYear" : 1998,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL18266W"
+  }, {
+    "title" : "Architecture",
+    "author" : "Francis D. K. Ching",
+    "firstPublishYear" : 1996,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8128557W"
+  }, {
+    "title" : "Human dimension and interior space",
+    "author" : "Julius Panero",
+    "firstPublishYear" : 1979,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL6565998W"
+  }, {
+    "title" : "The Usborne Complete Book of Astronomy and Space (Complete Books Series)",
+    "author" : "Lisa Miles",
+    "firstPublishYear" : 1998,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL8118077W"
+  }, {
+    "title" : "Mrs. Jeepers in Outer Space",
+    "author" : "Marcia Thornton Jones",
+    "firstPublishYear" : 1999,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL14906217W"
+  } ]
+}

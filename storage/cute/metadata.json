@@ -1,0 +1,30 @@
+{
+  "topic" : "cute",
+  "openLibraryUrl" : "https://openlibrary.org/search.json?q=cute&limit=5",
+  "books" : [ {
+    "title" : "Tweet cute",
+    "author" : "Emma Lord",
+    "firstPublishYear" : 2020,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL20641099W"
+  }, {
+    "title" : "A Not So Meet Cute",
+    "author" : "Meghan Quinn",
+    "firstPublishYear" : 2021,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL27954238W"
+  }, {
+    "title" : "Kids Sketch Book",
+    "author" : "Frasier Cheng-Binns",
+    "firstPublishYear" : 2018,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL24583431W"
+  }, {
+    "title" : "Cleat Cute",
+    "author" : "Meryl Wilsner",
+    "firstPublishYear" : 2023,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL28627678W"
+  }, {
+    "title" : "A Merry Little Meet Cute",
+    "author" : "Julie Murphy",
+    "firstPublishYear" : 2022,
+    "openLibraryUrl" : "https://openlibrary.org/works/OL27039175W"
+  } ]
+}
